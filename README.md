@@ -75,4 +75,4 @@ https://github.com/Tejas-Chaudharigithub25/Crime-Activity-Intelligence
 
 1. Clone the main repository (backend + admin panel):
    ```bash
-   git clone https://github.com/jayeshgavale02/Crime-Activity-Intelligence.git
+   git clone https://github.com/patiltushar88/Crime-Activity-Intelligence.git
