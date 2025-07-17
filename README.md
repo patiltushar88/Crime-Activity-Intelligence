@@ -29,6 +29,7 @@
 ## 🛠 Modules Overview
 
 ### 1. User Module (Android App)
+https://github.com/Tejas-Chaudharigithub25/Crime-Activity-Intelligence
 
 - Register/Login  
 - Report crimes with evidence (images, location, etc.)  
@@ -36,6 +37,7 @@
 - Receive real-time notifications (Case Solved, Pending, etc.)
 
 ### 2. Admin Panel (Web App)
+(Backend Web Panel: https://github.com/jayeshgavale02/Crime-Activity-Intelligence.git)
 
 - Manage crime records  
 - Verify user-submitted reports  
